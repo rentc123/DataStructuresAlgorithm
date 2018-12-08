@@ -1,0 +1,12 @@
+
+U
+squid:S106J"9Replace this use of System.out or System.err by a logger.(—ä˜H8³Àş¢÷,
+•squid:S1319"rThe type of the "next" object should be an interface such as "SortedMap" rather than the implementation "TreeMap".(ıíç­ÿÿÿÿÿ8İÁ×¡÷,
+‹"squid:ClassVariableVisibilityCheck"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ8‘×¡÷,
+Jsquid:S1905,"'Remove this unnecessary cast to "Node".(…ƒ¾øÿÿÿÿ8è¾¢÷,
+Œ"squid:ClassVariableVisibilityCheck"RMake isWord a static final constant or non-public and provide accessors if needed.(óÕ¦şÿÿÿÿ8İÁ×¡÷,
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü©Ãìøÿÿÿÿ
+Jsquid:S1905;"'Remove this unnecessary cast to "Node".(…ƒ¾øÿÿÿÿ8©÷×¢÷,
+Š"squid:ClassVariableVisibilityCheck"PMake next a static final constant or non-public and provide accessors if needed.(ıíç­ÿÿÿÿÿ8İÁ×¡÷,
+[
+squid:S106I"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‘‚¢÷,

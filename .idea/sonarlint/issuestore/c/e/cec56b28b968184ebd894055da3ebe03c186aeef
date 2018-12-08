@@ -1,0 +1,8 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Þ§÷«ýÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck	"RMake length a static final constant or non-public and provide accessors if needed.(ÇÈÕ[8ƒö‰ïî,
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(‹Î¤—8‘¤‡ðî,
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(‘Ä¸Éùÿÿÿÿ8£Úºïî,
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìÒäþ

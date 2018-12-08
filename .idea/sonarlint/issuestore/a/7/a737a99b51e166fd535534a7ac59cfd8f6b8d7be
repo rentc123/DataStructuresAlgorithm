@@ -1,0 +1,7 @@
+
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(‰áğØ8‡ÿ‚ñî,
+qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ô§ñĞøÿÿÿÿ8±ƒñî,
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‡ÿ‚ñî,
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş§÷«ıÿÿÿÿ

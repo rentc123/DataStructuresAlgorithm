@@ -1,0 +1,18 @@
+
+Ÿsquid:S1186I"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ìøŞŒ8‘Úùò÷,
+V
+squid:S106j"9Replace this use of System.out or System.err by a logger.( û¹¥8ûĞò÷,
+¥squid:S2681Q"†This line will not be executed conditionally; only the first line of this 3-line block will be. The rest will execute unconditionally.(‹ÅŒŠ8–ÉÏó÷,
+[
+squid:S106S"9Replace this use of System.out or System.err by a logger.(Ñ Áøÿÿÿÿ8Å”Ãó÷,
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü©Ãìøÿÿÿÿ
+nsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8–ÉÏó÷,
+nsquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8–ÉÏó÷,
+[
+squid:S106i"9Replace this use of System.out or System.err by a logger.(Œˆ‹Åûÿÿÿÿ8áËÏò÷,
+Š"squid:ClassVariableVisibilityCheck"PMake root a static final constant or non-public and provide accessors if needed.(£ÿœûùÿÿÿÿ8°Ìàñ÷,
+¤squid:S1186["€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÓîåÉúÿÿÿÿ8úò÷,
+nsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(µ‘Û±şÿÿÿÿ8–ÉÏó÷,
+isquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(õ´Ğ²8–ÉÏó÷,
+[
+squid:S106m"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ñû¬ò÷,

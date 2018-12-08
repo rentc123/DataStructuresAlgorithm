@@ -1,0 +1,6 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì›¤şÿÿÿÿ
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆÕ‡¸8‘¶¿ïî,
+Fsquid:S1068"(Remove this unused "head" private field.(ë­ÎÖ8‘¶¿ïî,
+>squid:S1068"(Remove this unused "data" private field.(ã±Â?
+?squid:S1068	"(Remove this unused "next" private field.(Õ¬·
